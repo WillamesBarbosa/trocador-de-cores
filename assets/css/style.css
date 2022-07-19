@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.quadro{
+    display: flex;
+    flex-direction: column;
+    margin: 10rem auto;
+    align-items: center;
+    text-align: center;
+    background-color: #000000;
+    height: 15rem;
+    width: 40rem;
+}
+
+.botao{
+    margin-top: 12rem;
+}
